@@ -1,16 +1,68 @@
-# React + Vite
+# Konda Subhashini — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Personal portfolio website built with React.js — showcasing my projects, hackathons, skills, and experience as a Full Stack Developer & ML Enthusiast.
 
-Currently, two official plugins are available:
+🌐 **Live Site:** [subhashini-portfolio.vercel.app](https://subhashini-portfolio.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React.js** — UI components
+- **Vite** — Fast build tool
+- **React Router DOM** — Routing
+- **CSS Variables** — Theming
+- **Vercel** — Deployment
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Sections
+
+- Hero — Introduction & social links
+- About — Summary & education timeline
+- Experience — Internship & volunteering
+- Projects — Key builds with tech stack & links
+- Hackathons — Competitions & results
+- Skills — Languages, frameworks, tools & ML
+- Certifications — NPTEL & event certificates
+- Sports — Athletics & extracurriculars
+- Contact — Get in touch
+
+---
+
+## Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/KONDA-SUBHASHINI/subhashini-portfolio.git
+
+# Install dependencies
+cd subhashini-portfolio
+npm install
+
+# Start dev server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+---
+
+## Deployment
+
+This project is deployed on **Vercel** with automatic deployments on every push to `main`.
+
+---
+
+## Contact
+
+- 📧 subhashinikonda008@gmail.com
+- 📧 249x5a05u8le@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/subhashini-konda-012228387)
+- 🐙 [GitHub](https://github.com/KONDA-SUBHASHINI)
+- 📍 Kurnool, Andhra Pradesh
+
+---
+
+⭐ If you like this portfolio, feel free to star the repo!
